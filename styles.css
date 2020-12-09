@@ -1,0 +1,18 @@
+img {
+    height: 200px;
+    width: 350px;
+    border: solid black;
+    padding: 3px;
+    margin: 10px;
+}
+
+.nav {
+    Display: flex;
+    background-color: gray;
+    padding: 5px;
+    justify-content: space-around;
+}
+
+html {
+    background-color: orange;
+}
